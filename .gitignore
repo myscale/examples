@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+
+# notebook checkpoints
+.ipynb_checkpoints
+
+# image tmp data
+tmp
+
+
